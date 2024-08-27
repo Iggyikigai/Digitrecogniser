@@ -1,4 +1,4 @@
-# Digit Recognizer
+# Digit Recogniser
 A Computer Vision Tool for Digit Recognition using TensorFlow & Keras
 
 ## Project Resources
